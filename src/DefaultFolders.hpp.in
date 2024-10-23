@@ -1,0 +1,7 @@
+#pragma once
+#include<string>
+
+namespace RPCSim
+{
+  static const std::string HeedDatabase{"@HEED_DATABASE_PATH@"};
+}
